@@ -91,7 +91,7 @@ Contributions welcome! Please:
 MIT License - See [LICENSE](LICENSE) for details
 
 ## 📧 Contact
-- ✉️ **Email**: [muhamedammar0900@gmail.com](mailto:muhamedammar0900@gmail.com)  
+- ✉️ **Email**: [muhamad.ammar09001@gmail.com](mailto:muhamad.ammar09001@gmail.com)  
 - 🔗 **LinkedIn**: [Muhamad Ammar](https://www.linkedin.com/in/muhamad-ammar-18b427306)
 
 ---
